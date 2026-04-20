@@ -1,0 +1,15 @@
+
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+GRAY = (128, 128, 128)
+LIGHT_GRAY = (211, 211, 211)
+RED = (255, 0, 0)
+BLUE = (0, 0, 255)
+GREEN = (0, 255, 0)
+DARK_BLUE = (0, 0, 139)
+
+# Dimensões e Configurações Padrão
+DEFAULT_ROWS = 20
+DEFAULT_COLS = 20
+DEFAULT_NUM_MINES = 40
+TILE_SIZE = 30
