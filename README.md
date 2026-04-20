@@ -125,7 +125,3 @@ Este projeto representa uma implementação orientada a objetos do jogo Campo Mi
 - botão de reinício dentro da partida
 - proteção para o primeiro clique nunca ser uma bomba
 - ranking de melhores tempos
-
-## Autor
-
-Desenvolvido para fins acadêmicos e de estudo, com foco em programação orientada a objetos e desenvolvimento de jogos em Python.
